@@ -1,5 +1,7 @@
 Mcbe-Gif-to-Animated-Panorama
 
+not for pocket edition
+
 WARNING: may not work with specific screen aspect ratios the ideal ratio is 1920x1080 if you have less or more there will be black lines around the panorama or there may not it really just depends it is something that can not be fixed to my knowlege 
 
 
