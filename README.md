@@ -1,6 +1,6 @@
 Mcbe-Gif-to-Animated-Panorama
 
-WARNING: may not work with specific screen aspect ratios the ideal ratio is 1920x1080 if you have less or more there will be black lines around the panorama it is something that can not be fixed to my knowlege 
+WARNING: may not work with specific screen aspect ratios the ideal ratio is 1920x1080 if you have less or more there will be black lines around the panorama or there may not it really just depends it is something that can not be fixed to my knowlege 
 
 
 A simple Python script to create an animated panorama of your choice.
