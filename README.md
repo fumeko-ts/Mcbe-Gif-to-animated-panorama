@@ -1,10 +1,16 @@
 Mcbe-Gif-to-Animated-Panorama
 A simple Python script to create an animated panorama of your choice.
 
+
+Note: If you intend to use the output content created by this Python file, you will need to ask for my permission. If I say no, please do not protest. If I say yes, credit me accordingly.
+
+
+
 How to Use:
 
-1.Unzip the provided zip folder.
 
+
+1.Unzip the provided zip folder.
 
 
 
@@ -14,9 +20,7 @@ How to Use:
 
 
 
-
 3.Run the script. It is recommended to use Visual Studio Code to run it.
-
 
 
 
@@ -29,5 +33,7 @@ How to Use:
 
 5.Open Minecraft and use the pack.
 
-This pack requires you to turn off screen animations in Minecraft. To do this, go to the main menu, open settings, then go to video settings. At the top of that page, select “Screen Animations” and make sure it is off. If you do not do this, you may experience frequent crashing
 
+
+
+6.This pack requires you to turn off screen animations in Minecraft. To do this, go to the main menu, open settings, then go to video settings. At the top of that page, select “Screen Animations” and make sure it is off. If you do not do this, you may experience frequent crashing.
