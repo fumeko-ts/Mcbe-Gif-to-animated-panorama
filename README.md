@@ -46,3 +46,36 @@ How to Use:
 
 
 6.This pack requires you to turn off screen animations in Minecraft. To do this, go to the main menu, open settings, then go to video settings. At the top of that page, select “Screen Animations” and make sure it is off. If you do not do this, you may experience frequent crashing.
+
+
+========================================================================================================================================================================================================================================
+Minecraft-bedrock-Gif-to-Animated-Panorama
+
+次の更新で VER 1.4 が完了次第更新します。私が持っているコンテナの大部分が完成するといいのですが、先日のように、py ファイルに使用していたリソースがすべてなくなってしまったので、何が起こるかわかりません。削除されて復元できないため、もう一度最初からやり直す必要がありましたが、過去数時間での進歩は精神的なものであったため、それだけの価値はあったと思います
+
+ポケット版ではありません
+
+警告: 特定の画面アスペクト比では動作しない可能性があります。理想的な比率は 1920x1080 です。比率が少ない場合も多い場合も、パノラマの周りに黒い線が表示されるか、そうでない可能性があります。これは実際に依存するだけで、私の知識では修正できません。
+
+選択したアニメーション パノラマを作成するためのシンプルな Python スクリプト。
+
+注: この Python ファイルによって作成された出力コンテンツを使用する場合は、私の許可を求める必要があります。私が「ノー」と言ったとしても、抗議しないでください。私が「はい」と答えたら、それに応じて私を褒めてください。
+
+使用方法:
+
+1.提供されたzipフォルダーを解凍します。
+
+2.目的の GIF の名前を panorama.gif に変更し、Python スクリプトと同じフォルダーに配置します。
+
+3.スクリプトを実行します。 Visual Studio Code を使用して実行することをお勧めします。
+
+4.結果のパックをコピーし、C:\Users\USER\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_resource_packs に貼り付けます。
+
+5.Minecraft を開いてパックを使用します。
+
+6.このパックでは、Minecraft の画面アニメーションをオフにする必要があります。これを行うには、メインメニューに移動し、設定を開き、ビデオ設定に移動します。そのページの上部で「画面アニメーション」を選択し、オフになっていることを確認します。これを行わないと、頻繁にクラッシュが発生する可能性があります
+
+
+
+
+
